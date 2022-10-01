@@ -29,8 +29,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['2250501127233'] // owner number
-global.ownername = "𝐒𝐎𝐌𝐁𝐑𝐄 𝐉•𝐇𝐀𝐂𝐊❯❯" // owner name
+global.vcardowner = ['2250556933397'] // owner number
+global.ownername = "𝐊𝐈𝐋𝐋𝐔𝐀❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -47,16 +47,16 @@ global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (
 global.welcom_msg = "false" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['2250501127233']
+global.owner = ['2250556933397']
 global.ownertag = '2250501127233' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝙎𝙊𝙈𝘽𝙍𝙀 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙎𝙊𝙈𝘽𝙍𝙀╺ 𝘿𝘼𝙀𝙈𝙊𝙉" // sticker author
+global.botname = '𝙍𝙀𝘿╺ 𝙎𝙊𝙈𝘽𝙍𝙀 - 𝘽𝙊𝙏' //ur bot name
+global.packname = "𝙎𝙊𝙈𝘽𝙍𝙀 ♣ 𝘿𝘼𝙀𝙈𝙊𝙉" // sticker packname
+global.author = "𝙆𝙄𝙇𝙇𝙐𝘼╺ 𝙕𝙊𝙇𝘿𝙔𝘾𝙆" // sticker author
 global.dragonemoji = '🪄' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['2250501127233'] //ur premium numbers
+global.premium = ['2250556933397'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
